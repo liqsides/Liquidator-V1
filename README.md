@@ -11,4 +11,4 @@ This is not a competitive liquidation bot and will only win liquidations if othe
 
 
 ## Donate
-0xe0f1F6d9b57DB098a1c786a835A55A1Ff64d39EE (I accept Polygon and Ethereum donations <3, thanks frens and QImps)
+0xe0f1F6d9b57DB098a1c786a835A55A1Ff64d39EE (I accept Polygon Network and Ethereum Network donations <3, thanks frens and QImps)
