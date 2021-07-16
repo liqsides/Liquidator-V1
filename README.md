@@ -3,7 +3,7 @@ A liquidator script for the QIDAO Protocol on the Polygon Network.
 
 
 ## Setup
-In order for this script to work, you will need to setup a Python3 environment of your own. Once done, you will need to pip install web3 in order to be fully functional. Lastly, you will need to to fillout 3 variables at the top of the script with you own information, ex. need to fill url variable with a Polygon RPC endpoint, myAddress variable with your Polygon address and and the priv variable with your private key. Once done with all of these setup steps, you can run the bot and have a chance at getting some liquidations!
+In order for this script to work, you will need to setup a Python3 environment of your own. Once done, you will need to pip install web3 in order to be fully functional. Lastly, you will need to to fill out 3 variables at the top of the script with you own information, ex. need to fill url variable with a Polygon RPC endpoint, myAddress variable with your Polygon address and and the priv variable with your private key. Once done with all of these setup steps, you can run the bot and have a chance at getting some liquidations!
 
 
 ## Info
