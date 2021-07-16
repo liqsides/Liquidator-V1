@@ -1,5 +1,5 @@
 # Liquidator-V1
-A liquidator script that functions for the QIDAO Protocol on the Polygon Network.
+A liquidator script for the QIDAO Protocol on the Polygon Network.
 
 
 ## Setup
